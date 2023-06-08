@@ -1,14 +1,12 @@
-def recursion(s, l, r):
-    global c
-    c+=1
-    if l >= r: return 1
-    elif s[l] != s[r]: return 0
-    else: return recursion(s, l+1, r-1)
+a,b,c = map(int,input().split())
 
-def isPalindrome(s):
-    return recursion(s, 0, len(s)-1)
-n = int(input())
-for _ in range(n):
-    c=0
-    s = input()
-    print(isPalindrome(s),c)
+k = 1
+
+while k <= c:
+    if a >= 2*b:
+        a=a-1
+        k+=1
+    else:
+        b = b-1
+        k+=1
+print(min(int(a/2),b))
