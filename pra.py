@@ -1,12 +1,7 @@
-a,b = map(int,input().split())
-A=set()
-B = set()
-
-al = map(int,input().split())
-bl = map(int,input().split())
-
-for i in al:
-    A.add(i)
-for i in bl:
-    B.add(i)
-print(len(A-B)+len(B-A))
+n = int(input())
+x,y = [],[]
+for _ in range(n):
+    a,b = map(int,input().split())
+    x.append(a)
+    y.append(b)
+print((max(x)-min(x))*(max(y)-min(y)))
