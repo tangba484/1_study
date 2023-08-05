@@ -31,5 +31,4 @@ while i < n-1:
             else:
                 break
         ans = max(ans,cnt)
-        
 print(ans)
