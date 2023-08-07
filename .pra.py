@@ -1,3 +1,18 @@
+<<<<<<< HEAD
+n = int(input())
+
+k = 0
+if n==1:
+    print(1)
+else:
+
+    while 1:
+        k+= 1
+        if 2**k > n:
+            k -= 1
+            break
+    print(k)
+=======
 def count(num):  
     cnt = 0  
     bin_num = bin(num)[2:]  
@@ -21,3 +36,4 @@ for i in range(1, 60):
 
 n = int(input())
 print(count(n))
+>>>>>>> 1be7893bd6e99b5f350295666932c4534cced7ca
