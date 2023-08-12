@@ -1,38 +1,12 @@
-def is_spanning_tree(graph, start_vertex=0):
-    num_vertices = len(graph)
-    visited = [False] * num_vertices
-    parent = [-1] * num_vertices
-    
-    def dfs(vertex, parent_vertex):
-        visited[vertex] = True
-        parent[vertex] = parent_vertex
-        
-        for neighbor in graph[vertex]:
-            if not visited[neighbor]:
-                if dfs(neighbor, vertex):
-                    return True
-            elif parent_vertex != neighbor:
-                return True
-        
-        return False
-    
-    if dfs(start_vertex, -1):
-        return False
-    
-    # 모든 정점이 연결되었는지 확인
-    for vertex in range(num_vertices):
-        if not visited[vertex]:
-            return False
-    
-    return True
+import os
 
-# 그래프의 인접 리스트 표현 예시
-graph = {
-    0: [1, 2],
-    1: [0, 3],
-    2: [0],
-    3: [1,4],
-    4: [3]
-}
+folder_path = r"C:\Users\tangb\Study\hi"  # 폴더 경로를 적절히 수정해주세요
+file_names = os.listdir(folder_path)
 
-print(is_spanning_tree(graph))  # True or False 출력
+for file_name in file_names:
+    if file_name.startswith("beakjoon_") and file_name.endswith(".py"):
+        number_part = file_name.replace("beakjoon_", "").replace(".py", "")
+        if number_part.isdigit():
+            new_file_name = os.path.join(folder_path, file_name)
+            new_number_part = os.path.join(folder_path, number_part + ".py")
+            os.rename(new_file_name, new_number_part)
