@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class boj_9934 {
+public class Main {
     static int k;
     static int[] l ;
     static List<ArrayList<Integer>> ans;

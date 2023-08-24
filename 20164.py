@@ -29,7 +29,6 @@ def s(a):
 k =check(n)
 def R(a):
     global k,M,m
-    print(a,"k = ",k)
     l = len(a)
     if l >= 3:
         for i in range(l-2):

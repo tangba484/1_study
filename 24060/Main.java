@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class baekjoon_24060 {
+public class Main {
 	static int[] sorted;
 	static int K;
 	static int cnt;

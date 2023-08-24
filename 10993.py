@@ -30,6 +30,7 @@ A = R(n)
 
 k = len(A)
 
+
 if n%2 == 1:
     s=[]
     for i in range(k):
