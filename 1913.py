@@ -1,32 +1,30 @@
-n = int(input()) 
-Find = int(input())
-arr = [ [0 for _ in range(n)] for _ in range(n) ]
+n = int(input())
+num = int(input())
+dx = [0, 1, 0, -1]
+dy = [-1, 0, 1, 0]
 
-dy =[0,1,0,-1]
-dx =[1,0,-1,0]
-x ,y = 0,0
-num = n * n -1
-arr[x][y] = n * n
+arr = [[0 for _ in range(n)] for _ in range(n)]
+dir = 0
+cnt = 1
+rep = 1
+x, y = n // 2, n // 2
+Y, X = 0, 0
+while cnt <= n ** 2:
+    for _ in range(2):
+        for _ in range(rep):
+            if cnt <= n ** 2:
+                arr[y][x] = cnt
+                x += dx[dir]
+                y += dy[dir]
+                cnt += 1
+        dir = (dir + 1) % 4
+    rep += 1
 
-
-while True:    
-    for i in range(4):   
-      while True :
-        x = x + dx[i]
-        y = y + dy[i]
-        if x >= n or y >= n or x <  0 or y < 0 or arr[x][y] != 0 :
-            x -= dx[i]
-            y -= dy[i]         
-            break
-        else:           
-            arr[x][y] = num
-            if arr[x][y] == Find:
-                ans1, ans2 = x,y
-            num -= 1          
-    if x == n//2 and y == n//2:
-        break
-
-
-for i in arr:
-    print(*i)
-print(ans1+1,ans2+1)
+for i in range(n):
+    for j in range(n):
+        print(arr[i][j], end=' ')
+        if arr[i][j] == num:
+            Y = i
+            X = j
+    print()
+print(Y + 1, X + 1)
