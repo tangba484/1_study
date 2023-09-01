@@ -28,5 +28,5 @@ for i in range(100):
     like_count = random.randint(0, 100)
     title = f"Title for post {post_id}"
     restaurant_name = random.choice(restaurant_names)
-    
+    print(created_at)
     print(f"INSERT INTO posts (POST_ID, CONTENT, CREATED_AT, LIKE_COUNT, TITLE, RESTAURANT_NAME) VALUES ({post_id}, '{content}', '{created_at}', {like_count}, '{title}', '{restaurant_name}');")
