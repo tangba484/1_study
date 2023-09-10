@@ -1,5 +1,3 @@
-package 1358;
-
 import java.util.*;
 import java.io.*;
 
