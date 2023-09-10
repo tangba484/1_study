@@ -6,7 +6,8 @@ c = 0
 for i in range(n):
     if s[i] == "X":
         c += 1
-    
+    elif s[i] == ".":
+        c = 0
     if c == 2:
         ans[i] = "B"
         ans[i-1] = "B"
