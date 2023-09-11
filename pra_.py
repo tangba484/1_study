@@ -23,7 +23,7 @@ for restaurantName in A:
     for i in range(postNum):
         created_at = random_date(start_date, end_date)
         like_count = random.randint(0, 50)
-        post_tuple = (postId, content + str(postId),str(created_at),like_count, title + str(postId), restaurantName)
+        post_tuple = (postId, content + str(postId),str(created_at),like_count, title + str(postId), restaurantName,"temp")
         posts.append(post_tuple)
         postId += 1
 print(postId)
@@ -40,7 +40,7 @@ for p in range(1000,postId):
         created_at = random_date(formatted_date, end_date)
     
         like_count = random.randint(0, 50)
-        comment_tuple = (commentId, p, str(created_at), like_count, content + str(p))
+        comment_tuple = (commentId, p, str(created_at), like_count, content + str(p),"temp")
         comments.append(comment_tuple)
         commentId += 1
 
