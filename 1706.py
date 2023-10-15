@@ -31,4 +31,5 @@ for i in range(r):
         if graph[i][j] != "#":
             check(i,j)
             check1(i,j)
+            
 print(sorted(result)[0])
