@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf1bffa9-dc85-4fb9-987e-b4c89c05f165" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pra.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/.pra.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1009.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1015.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1015.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10158.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/10158.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10164.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/10164.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1021.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1021.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1025.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1025.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1043.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1043.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10653.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/10653.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1074.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1074.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10815.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/10815.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10830.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/10830.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1094.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1094.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10942.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/10942.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10993.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/10993.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10997.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/10997.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11053.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/11053.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11057.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/11057.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11404.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/11404.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11444.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/11444.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11478.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/11478.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11501.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/11501.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1167.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1167.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11779.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/11779.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11899.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/11899.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1197.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1197.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12015.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/12015.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1213.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1213.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1238.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1238.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12738.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/12738.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12851.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/12851.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12852.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/12852.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1292.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1292.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1300.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1300.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1309.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1309.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13172.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/13172.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1343.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1343.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1351.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1351.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14003.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/14003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1418.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1418.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1434.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1434.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1450.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1450.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14502.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/14502.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14503.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/14503.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14650.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/14650.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1477.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1477.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14888.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/14888.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14921.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/14921.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14938.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/14938.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14940.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/14940.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1495.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1495.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1504.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1504.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1520.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1520.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15311.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/15311.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1561.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1561.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15686.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/15686.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15989.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/15989.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1606.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1606.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16139.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/16139.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16161.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/16161.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1629.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1629.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16434.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/16434.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16435.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/16435.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1644.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1644.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1647.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1647.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1660.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1660.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1662.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1662.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16719.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/16719.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16946.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/16946.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16987.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/16987.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1700.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1700.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1706.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1706.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17070.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/17070.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17144.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/17144.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1740.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1740.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17404.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/17404.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1744.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1744.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1753.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1753.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1759.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1759.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17829.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/17829.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1788.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1788.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1790.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1790.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1806.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1806.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1809.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1809.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1812.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1812.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1865.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1865.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1890.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1890.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1913.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1913.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1916.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1916.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1918.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1918.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19542.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/19542.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19598.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/19598.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1965.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1965.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1967.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1967.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1987.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1987.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20040.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/20040.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20055.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/20055.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2011.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20149.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/20149.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20164.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/20164.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2022.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20437.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/20437.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20529.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/20529.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2096.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2096.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2110.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2110.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2133.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2133.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2143.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2143.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2146.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2146.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2166.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2166.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2167.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2167.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2170.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2170.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21736.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/21736.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21900.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/21900.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22114.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/22114.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2225.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2225.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2230.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2230.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2239.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2239.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2240.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2240.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2252.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2252.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22862.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/22862.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2294.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2294.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2295.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2295.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2309.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2309.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2312.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2312.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2342.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2342.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2346.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2346.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2352.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2352.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2417.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2417.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2437.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2437.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24480.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/24480.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2457.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2457.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2467.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2467.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2473.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2473.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2485.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2485.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2491.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2491.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2502.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2502.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25184.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/25184.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2530.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2530.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2565.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2565.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2580.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2580.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2616.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2616.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2638.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2638.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2644.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2644.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2661.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2661.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2666.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2666.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2669.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2669.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27172.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/27172.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28432.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/28432.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2980.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2980.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3015.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/3015.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3049.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/3049.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3079.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/3079.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3135.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/3135.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3151.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/3151.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4134.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/4134.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5347.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/5347.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5557.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/5557.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5582.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/5582.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5639.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/5639.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5904.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/5904.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7570.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/7570.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7579.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/7579.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7785.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/7785.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9084.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/9084.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9205.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/9205.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9237.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/9237.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9527.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/9527.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pratice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/가장 큰 정사각형 찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/가장 큰 정사각형 찾기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/거리두기 확인하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/거리두기 확인하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/두 큐 합 같게 만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/두 큐 합 같게 만들기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/땅따먹기.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/땅따먹기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/마법의 엘리베이터.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/마법의 엘리베이터.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/메뉴 리뉴얼.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/메뉴 리뉴얼.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/무인도 여행.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/무인도 여행.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/숫자 카드 나누기.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/숫자 카드 나누기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/시소 짝꿍.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/시소 짝꿍.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/전력망 둘로 나누기.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/전력망 둘로 나누기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/줄서는 방법.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/줄서는 방법.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/추억 점수.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/추억 점수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/큰 수 만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/큰 수 만들기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/호텔 대실.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/호텔 대실.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2YEBxWjGmbqphYmcEJE4oKc0U6K" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "tangba484",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/tangb/IdeaProjects/Algorithm/2503",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.23448277",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tangb\IdeaProjects\Algorithm" />
+      <recent name="C:\Users\tangb\IdeaProjects\Algorithm\python" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.asdf">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1809" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\tangb\IdeaProjects\Algorithm\python\1809.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="21736" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\tangb\IdeaProjects\Algorithm\python\21736.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="asd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/asd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="asdf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/asdf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.asdf" />
+        <item itemvalue="Python.asd" />
+        <item itemvalue="Python.21736" />
+        <item itemvalue="Python.1809" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf1bffa9-dc85-4fb9-987e-b4c89c05f165" name="Changes" comment="" />
+      <created>1700081107236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700081107236</updated>
+      <workItem from="1700081108299" duration="176000" />
+      <workItem from="1700081303254" duration="1866000" />
+      <workItem from="1700083221146" duration="647000" />
+      <workItem from="1700618529952" duration="381000" />
+      <workItem from="1700618985837" duration="29000" />
+      <workItem from="1700628874962" duration="45000" />
+      <workItem from="1701051528032" duration="295000" />
+      <workItem from="1701054646131" duration="2113000" />
+      <workItem from="1701145685564" duration="2016000" />
+      <workItem from="1701221377603" duration="5286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/algorithm$1809.coverage" NAME="1809 Coverage Results" MODIFIED="1701231562913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm$21736.coverage" NAME="21736 Coverage Results" MODIFIED="1701231640973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm$asd.coverage" NAME="asd Coverage Results" MODIFIED="1701232004881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm$asdf.coverage" NAME="asdf Coverage Results" MODIFIED="1701232192859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+  </component>
+</project>
