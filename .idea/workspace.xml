@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf1bffa9-dc85-4fb9-987e-b4c89c05f165" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algorithm.iml" afterDir="false" />
+=======
+>>>>>>> 25e9788673d88988a03a120be34ac9fdee9973f9
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +53,11 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "tangba484",
     "jdk.selected.JAVA_MODULE": "17",
+<<<<<<< HEAD
     "last_opened_file_path": "C:/Users/tangb/IdeaProjects/Algorithm/java/14891",
+=======
+    "last_opened_file_path": "C:/Users/tangb/IdeaProjects/Algorithm/java",
+>>>>>>> 25e9788673d88988a03a120be34ac9fdee9973f9
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -193,7 +200,12 @@
       <workItem from="1701051528032" duration="295000" />
       <workItem from="1701054646131" duration="2113000" />
       <workItem from="1701145685564" duration="2016000" />
+<<<<<<< HEAD
       <workItem from="1701221377603" duration="6311000" />
+=======
+      <workItem from="1701221377603" duration="5286000" />
+      <workItem from="1701601737902" duration="139000" />
+>>>>>>> 25e9788673d88988a03a120be34ac9fdee9973f9
     </task>
     <servers />
   </component>
