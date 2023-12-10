@@ -54,10 +54,14 @@
     "git-widget-placeholder": "tangba484",
     "jdk.selected.JAVA_MODULE": "17",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "last_opened_file_path": "C:/Users/tangb/IdeaProjects/Algorithm/java/14891",
 =======
     "last_opened_file_path": "C:/Users/tangb/IdeaProjects/Algorithm/java",
 >>>>>>> 25e9788673d88988a03a120be34ac9fdee9973f9
+=======
+    "last_opened_file_path": "C:/Users/tangb/IdeaProjects/Algorithm/java/16396",
+>>>>>>> 5cca855e5470764e65286b37b0d04dd05f3f06c4
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -205,7 +209,12 @@
 =======
       <workItem from="1701221377603" duration="5286000" />
       <workItem from="1701601737902" duration="139000" />
+<<<<<<< HEAD
 >>>>>>> 25e9788673d88988a03a120be34ac9fdee9973f9
+=======
+      <workItem from="1701928882581" duration="1173000" />
+      <workItem from="1702219669301" duration="331000" />
+>>>>>>> 5cca855e5470764e65286b37b0d04dd05f3f06c4
     </task>
     <servers />
   </component>
