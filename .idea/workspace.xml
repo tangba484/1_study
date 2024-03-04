@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf1bffa9-dc85-4fb9-987e-b4c89c05f165" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +63,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "tangba484",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/tangb/IdeaProjects/Algorithm/java/1063",
+    "last_opened_file_path": "C:/Users/tangb/IdeaProjects/Algorithm",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -211,6 +210,7 @@
       <workItem from="1709525749449" duration="57000" />
       <workItem from="1709525821558" duration="790000" />
       <workItem from="1709526635117" duration="168000" />
+      <workItem from="1709530374041" duration="372000" />
     </task>
     <servers />
   </component>
