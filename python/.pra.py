@@ -1,7 +1,4 @@
-from collections import deque
-graph = [[1 for _ in range(8)] for _ in range(6)]
-graph[0][4] = 0
-graph[-1][4] = 0
+
 
 for i in range(2):
     for j in range(6,8):
